@@ -4784,6 +4784,42 @@ section.lazy-placeholder:after {
 .cid-rp1yMtkBHB .card-img {
   color: #ffffff;
 }
+.cid-sIobL78zPF {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #000000;
+}
+@media (min-width: 992px) {
+  .cid-sIobL78zPF .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sIobL78zPF .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-sIobL78zPF .mbr-text {
+  color: #ffffff;
+}
+.cid-sIobLYjQIm {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-sIobLYjQIm .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-sIobLYjQIm .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-sIobLYjQIm .mbr-text {
+  color: #1f297c;
+}
 .cid-sgGDzxpKBd {
   padding-top: 15px;
   padding-bottom: 15px;
