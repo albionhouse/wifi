@@ -4784,28 +4784,6 @@ section.lazy-placeholder:after {
 .cid-rp1yMtkBHB .card-img {
   color: #ffffff;
 }
-.cid-sYUfKR9VPQ {
-  background: #2da1db;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background: linear-gradient(0deg, #2b93d1, #2da1db);
-}
-.cid-sYUfKR9VPQ .image-block {
-  margin: auto;
-}
-.cid-sYUfKR9VPQ figcaption {
-  position: relative;
-}
-.cid-sYUfKR9VPQ figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-sYUfKR9VPQ .image-block {
-    width: 100% !important;
-  }
-}
 .cid-sgGDzxpKBd {
   padding-top: 15px;
   padding-bottom: 15px;
