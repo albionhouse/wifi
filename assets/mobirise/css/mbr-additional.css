@@ -92,7 +92,7 @@ body {
   background-color: #d9d9d8 !important;
 }
 .bg-info {
-  background-color: #8f35a6 !important;
+  background-color: #f13100 !important;
 }
 .bg-warning {
   background-color: #ff773d !important;
@@ -122,8 +122,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #55b4d4 !important;
-  border-color: #55b4d4 !important;
+  background-color: #2680be !important;
+  border-color: #2680be !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -131,19 +131,19 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #2d8fb0 !important;
-  border-color: #2d8fb0 !important;
+  background-color: #19557e !important;
+  border-color: #19557e !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #2d8fb0 !important;
-  border-color: #2d8fb0 !important;
+  background-color: #19557e !important;
+  border-color: #19557e !important;
 }
 .btn-info,
 .btn-info:active {
-  background-color: #8f35a6 !important;
-  border-color: #8f35a6 !important;
+  background-color: #f13100 !important;
+  border-color: #f13100 !important;
   color: #ffffff !important;
 }
 .btn-info:hover,
@@ -151,14 +151,14 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: #ffffff !important;
-  background-color: #5d226c !important;
-  border-color: #5d226c !important;
+  background-color: #a42100 !important;
+  border-color: #a42100 !important;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #5d226c !important;
-  border-color: #5d226c !important;
+  background-color: #a42100 !important;
+  border-color: #a42100 !important;
 }
 .btn-success,
 .btn-success:active {
@@ -286,42 +286,42 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #277e9c;
-  color: #277e9c;
+  border-color: #154769;
+  color: #154769;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #55b4d4;
-  border-color: #55b4d4;
+  background-color: #2680be;
+  border-color: #2680be;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #55b4d4 !important;
-  border-color: #55b4d4 !important;
+  background-color: #2680be !important;
+  border-color: #2680be !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
   background: none;
-  border-color: #4c1c59;
-  color: #4c1c59;
+  border-color: #8b1c00;
+  color: #8b1c00;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #8f35a6;
-  border-color: #8f35a6;
+  background-color: #f13100;
+  border-color: #f13100;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #8f35a6 !important;
-  border-color: #8f35a6 !important;
+  background-color: #f13100 !important;
+  border-color: #f13100 !important;
 }
 .btn-success-outline,
 .btn-success-outline:active {
@@ -421,13 +421,13 @@ body {
   color: #296eb0 !important;
 }
 .text-secondary {
-  color: #55b4d4 !important;
+  color: #2680be !important;
 }
 .text-success {
   color: #d9d9d8 !important;
 }
 .text-info {
-  color: #8f35a6 !important;
+  color: #f13100 !important;
 }
 .text-warning {
   color: #ff773d !important;
@@ -447,7 +447,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #277e9c !important;
+  color: #154769 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -455,7 +455,7 @@ a.text-success:focus {
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #4c1c59 !important;
+  color: #8b1c00 !important;
 }
 a.text-warning:hover,
 a.text-warning:focus {
@@ -477,7 +477,7 @@ a.text-black:focus {
   background-color: #70c770;
 }
 .alert-info {
-  background-color: #8f35a6;
+  background-color: #f13100;
 }
 .alert-warning {
   background-color: #ff773d;
@@ -511,7 +511,7 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #c683d7;
+  color: #ffcbbe;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -590,8 +590,8 @@ blockquote {
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
-  color: #000000 !important;
-  background: #55b4d4 !important;
+  color: #ffffff !important;
+  background: #2680be !important;
   box-shadow: none !important;
 }
 .lazy-bg {
@@ -1003,7 +1003,7 @@ section.lazy-placeholder:after {
 .cid-qUowx2k06Y {
   padding-top: 105px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-qUowx2k06Y B {
   color: #ffffff;
@@ -1050,7 +1050,7 @@ section.lazy-placeholder:after {
 .cid-rfZtNQzLkL {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-rfZtNQzLkL .mbr-text {
   color: #dbf2ff;
@@ -1094,7 +1094,7 @@ section.lazy-placeholder:after {
 .cid-qUoVlzQJMj {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 @media (max-width: 767px) {
   .cid-qUoVlzQJMj .content {
@@ -1190,7 +1190,7 @@ section.lazy-placeholder:after {
 .cid-sXoLAhtFm8 {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #fbfc1b;
+  background-color: #296eb0;
 }
 @media (min-width: 992px) {
   .cid-sXoLAhtFm8 .mbr-figure {
@@ -1203,7 +1203,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sXoLAhtFm8 .mbr-text {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-r1Hnk0MirM .navbar {
   padding: .5rem 0;
@@ -1589,7 +1589,7 @@ section.lazy-placeholder:after {
 .cid-r1Hnk3Uen3 {
   padding-top: 105px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-r1Hnk3Uen3 P {
   color: #d9d9d8;
@@ -1602,8 +1602,8 @@ section.lazy-placeholder:after {
 }
 .cid-sf1LYlLWUT {
   background: #ffffff;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .cid-sf1LYlLWUT .image-block {
   margin: auto;
@@ -1622,8 +1622,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sfafAir3pe {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-sfafAir3pe .mbr-text,
@@ -1856,9 +1856,9 @@ section.lazy-placeholder:after {
   color: #55b4d4;
 }
 .cid-sgGDzxpKBd {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/conceptual-urban-seamless-vector-b-background-1920x1080.jpeg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-rf79VNeSH0 .navbar {
   padding: .5rem 0;
@@ -2242,9 +2242,9 @@ section.lazy-placeholder:after {
   color: #2b80be !important;
 }
 .cid-rf79VOwYrw {
-  padding-top: 120px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  padding-top: 105px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-rf79VOwYrw H3 {
   color: #ff7700;
@@ -2261,7 +2261,7 @@ section.lazy-placeholder:after {
 .cid-rfLhIt08bF {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #d9d9d8;
 }
 .cid-rfLhIt08bF .mbr-text,
 .cid-rfLhIt08bF blockquote {
@@ -2269,6 +2269,9 @@ section.lazy-placeholder:after {
 }
 .cid-rfLhIt08bF SPAN {
   color: #2b93d1;
+}
+.cid-rfLhIt08bF DIV {
+  color: #ffffff;
 }
 .cid-rfEg1kmSPQ {
   padding-top: 15px;
@@ -2359,9 +2362,9 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-sgGDzxpKBd {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/conceptual-urban-seamless-vector-b-background-1920x1080.jpeg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-r6KcV48USn .navbar {
   padding: .5rem 0;
@@ -2745,9 +2748,9 @@ section.lazy-placeholder:after {
   color: #2b80be !important;
 }
 .cid-r6KcV4R0in {
-  padding-top: 120px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  padding-top: 105px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-r6KcV4R0in B {
   color: #ffffff;
@@ -2761,7 +2764,7 @@ section.lazy-placeholder:after {
 .cid-r6KcV5uguS {
   padding-top: 15px;
   padding-bottom: 15px;
-  background: linear-gradient(45deg, #2b80be, #296eb0);
+  background: linear-gradient(45deg, #2680be, #296eb0);
 }
 .cid-r6KcV5uguS .list-group-item {
   padding: .75rem 3.25rem;
@@ -2835,7 +2838,7 @@ section.lazy-placeholder:after {
 .cid-r6KcV7eYBk {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #2b80be;
+  background-color: #2680be;
 }
 @media (min-width: 992px) {
   .cid-r6KcV7eYBk .mbr-figure {
@@ -2922,9 +2925,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sgGDzxpKBd {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/conceptual-urban-seamless-vector-b-background-1920x1080.jpeg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-r6Kd7Q3SuO .navbar {
   padding: .5rem 0;
@@ -3308,9 +3311,9 @@ section.lazy-placeholder:after {
   color: #2b80be !important;
 }
 .cid-r6Kd7QS2Yr {
-  padding-top: 120px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  padding-top: 105px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-r6Kd7QS2Yr B {
   color: #ffffff;
@@ -3323,8 +3326,8 @@ section.lazy-placeholder:after {
 }
 .cid-seXymPACbu {
   padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #2b80be;
+  padding-bottom: 15px;
+  background-color: #2680be;
 }
 .cid-seXymPACbu .list-group-item {
   padding: .75rem 3.25rem;
@@ -3395,8 +3398,8 @@ section.lazy-placeholder:after {
 }
 .cid-r6Kd7Rz0rb {
   padding-top: 0px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-r6Kd7Rz0rb .list-group-item {
   padding: .75rem 3.25rem;
@@ -3467,7 +3470,7 @@ section.lazy-placeholder:after {
 }
 .cid-r6KnmYypu7 {
   padding-top: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #2b80be;
 }
 .cid-r6KnmYypu7 .list-group-item {
@@ -3538,8 +3541,8 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rkq4iRzze0 {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background: #296eb0;
 }
 .cid-rkq4iRzze0 .images-container.container-fluid {
@@ -3606,9 +3609,9 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-sgGDzxpKBd {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/conceptual-urban-seamless-vector-b-background-1920x1080.jpeg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-qUolqXMjQA .navbar {
   padding: .5rem 0;
@@ -3992,9 +3995,9 @@ section.lazy-placeholder:after {
   color: #2b80be !important;
 }
 .cid-settZv3stX {
-  padding-top: 120px;
+  padding-top: 105px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-settZv3stX .mbr-section-subtitle {
   color: #d9d9d8;
@@ -4084,9 +4087,9 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rp1bVJvf0K {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2b93d1;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #296eb0;
 }
 .cid-rp1bVJvf0K .mbr-text,
 .cid-rp1bVJvf0K blockquote {
@@ -4097,9 +4100,9 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rp1cunsdtu {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #62a1e5;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #2680be;
 }
 .cid-rp1cunsdtu .mbr-text,
 .cid-rp1cunsdtu blockquote {
@@ -4110,9 +4113,9 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rp1dMpPrId {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #85c0ff;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #296eb0;
 }
 .cid-rp1dMpPrId .mbr-text,
 .cid-rp1dMpPrId blockquote {
@@ -4123,9 +4126,9 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rp1dN80WmN {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #a7e1ff;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #2680be;
 }
 .cid-rp1dN80WmN .mbr-text,
 .cid-rp1dN80WmN blockquote {
@@ -4139,9 +4142,9 @@ section.lazy-placeholder:after {
   color: #2da1db;
 }
 .cid-rp1tJ9MPp0 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #b2ccd2;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #d9d9d8;
 }
 .cid-rp1tJ9MPp0 .mbr-text,
 .cid-rp1tJ9MPp0 blockquote {
@@ -4157,7 +4160,7 @@ section.lazy-placeholder:after {
 .cid-rpwg95S1ar {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 @media (min-width: 992px) {
   .cid-rpwg95S1ar .mbr-figure {
@@ -4186,9 +4189,9 @@ section.lazy-placeholder:after {
   text-align: right;
 }
 .cid-rp3HaZ1Tz0 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2b80be;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2680be;
 }
 @media (min-width: 992px) {
   .cid-rp3HaZ1Tz0 .mbr-figure {
@@ -4208,9 +4211,9 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-sgGDzxpKBd {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/conceptual-urban-seamless-vector-b-background-1920x1080.jpeg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-qUolqXMjQA .navbar {
   padding: .5rem 0;
@@ -4596,7 +4599,7 @@ section.lazy-placeholder:after {
 .cid-rTdxmp93Ps {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-rTdxmp93Ps .mbr-text {
   color: #d9d9d8;
@@ -4732,7 +4735,7 @@ section.lazy-placeholder:after {
 .cid-seXTrr8aTI {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/a-trendy-blue-tech-styled-background-vector-1920x960.jpg");
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
 .cid-seXTrr8aTI h4 {
   font-weight: 500;
@@ -4783,7 +4786,7 @@ section.lazy-placeholder:after {
 .cid-rp1yMtkBHB {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #2b80be;
+  background-color: #2680be;
 }
 .cid-rp1yMtkBHB .mbr-text {
   color: #767676;
@@ -4803,7 +4806,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-sgGDzxpKBd {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/conceptual-urban-seamless-vector-b-background-1920x1080.jpeg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/seamless-sky-vector-1920x960.jpg");
 }
